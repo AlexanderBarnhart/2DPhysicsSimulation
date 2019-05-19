@@ -3,7 +3,10 @@ User Manual
 
 Placing Objects:
 -----------------------------------------------------------------------
-To place an object in the simulation, click the Place Objects button. The placement will default to ball, but a ramp can be placed if the Ramp button is clicked. The outline of the object being placed will show when the mouse hovers over the simulation window. Left-click the mouse to place the object. To cancel the placement, right-click the mouse anywhere or click the Cancel button.
+To place an object in the simulation, click the Place Objects button. The placement will default to ball, 
+but a ramp can be placed if the Ramp button is clicked. The outline of the object being placed will show 
+when the mouse hovers over the simulation window. Left-click the mouse to place the object. To cancel the 
+placement, right-click the mouse anywhere or click the Cancel button.
 
 
 Simulation Control:
@@ -18,8 +21,10 @@ Stop Simulation: Stop the simulation.
 
 Simulation Settings:
 -----------------------------------------------------------------------
-Gravity: The force of gravity present in the simulation. Negative values will force objects downward. Positive values will force objects upward.
-Air Density: The density of the air in the simulation. Higher values increase wind resistance. Value cannot be negative
+Gravity: The force of gravity present in the simulation. Negative values will force objects downward. 
+Positive values will force objects upward.
+Air Density: The density of the air in the simulation. Higher values increase wind resistance. Value 
+cannot be negative
 Elastic Collisions: If selected, objects will never lose momentum when colliding.
 
 
@@ -32,8 +37,10 @@ Force Magnitude: The initial net force on the object in Newtons.
 Force Angle: The direction of the net force in degrees.
 Velocity Magnitude: The initial speed of the object in meters per second.
 Velocity Angle: The direction of the object’s speed in degrees.
-Static Friction: The value of the static friction coefficient. Higher values mean more friction. Value cannot be negative.
-Kinetic Friction: The value of the kinetic friction coefficient. Higher values mean more friction. Value cannot be negative.
+Static Friction: The value of the static friction coefficient. Higher values mean more friction. Value 
+cannot be negative.
+Kinetic Friction: The value of the kinetic friction coefficient. Higher values mean more friction. 
+Value cannot be negative.
 
 Ramp:
 Height: How tall the ramp is. Can be negative to make the ramp face down.
